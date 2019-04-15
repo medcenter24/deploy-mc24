@@ -1,0 +1,27 @@
+{
+    "name": "medcenter24/deploy-mc24",
+    "license": "proprietary",
+    "description": "Deployments for the Doctor Home Visit 24",
+    "authors": [
+        {
+            "name": "Oleksandr Zagovorychev",
+            "email": "zagovorychev@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "git@github.com-personal:medcenter24/md-core.git"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "medcenter24/md-core": "dev-develop",
+        "medcenter24/md-director-dist": "dev-develop",
+        "medcenter24/md-doctor-dist": "dev-develop"
+    },
+    "config": {
+        "optimize-autoloader": true
+    },
+    "prefer-stable": true
+}
