@@ -12,7 +12,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "medcenter24/mc-core": "2.4.0-alpha",
+        "medcenter24/mc-core": "2.4.1-alpha",
         "medcenter24/mc-director-gui": "1.2.0-alpha",
         "medcenter24/mc-doctor-gui": "1.1.0-alpha"
     },

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "eea571216354cd221de29bfa60ffaeda",
+    "content-hash": "9b3f940f1b51041c0554e193942d5e41",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2159,16 +2159,16 @@
         },
         {
             "name": "medcenter24/mc-core",
-            "version": "v2.4.0-alpha",
+            "version": "v2.4.1-alpha",
             "source": {
                 "type": "git",
                 "url": "https://github.com/medcenter24/mc-core.git",
-                "reference": "4408dc0c9fa028d4fd38434540e08ebab11c4359"
+                "reference": "7c40d19cf2079582c2c28b38a18bd29156794804"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc-core/zipball/4408dc0c9fa028d4fd38434540e08ebab11c4359",
-                "reference": "4408dc0c9fa028d4fd38434540e08ebab11c4359",
+                "url": "https://api.github.com/repos/medcenter24/mc-core/zipball/7c40d19cf2079582c2c28b38a18bd29156794804",
+                "reference": "7c40d19cf2079582c2c28b38a18bd29156794804",
                 "shasum": ""
             },
             "require": {
@@ -2232,7 +2232,7 @@
                 "medcenter24",
                 "medicine"
             ],
-            "time": "2019-07-06T18:20:44+00:00"
+            "time": "2019-07-08T15:44:46+00:00"
         },
         {
             "name": "medcenter24/mc-director-gui",
