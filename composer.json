@@ -2,7 +2,7 @@
     "name": "medcenter24/deploy-mc24",
     "version": "0.1",
     "license": "proprietary",
-    "description": "Deployments for the MedCentr 24. AWS Prod.",
+    "description": "Deployments for the MedCenter 24. AWS Prod.",
     "authors": [
         {
             "name": "MedCenter 24",
@@ -13,8 +13,8 @@
     "prefer-stable": true,
     "require": {
         "medcenter24/mc-core": "2.4.1-alpha",
-        "medcenter24/mc-director-gui": "1.2.0-alpha",
-        "medcenter24/mc-doctor-gui": "1.1.0-alpha"
+        "medcenter24/mc24-director-dist": "0.1.0-alpha",
+        "medcenter24/mc24-doctor-dist": "0.1.0-alpha"
     },
     "require-dev": {
     },

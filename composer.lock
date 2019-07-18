@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9b3f940f1b51041c0554e193942d5e41",
+    "content-hash": "e8f82e3a3648b29a281d60811717bdf3",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2235,17 +2235,17 @@
             "time": "2019-07-08T15:44:46+00:00"
         },
         {
-            "name": "medcenter24/mc-director-gui",
-            "version": "v1.2.0-alpha",
+            "name": "medcenter24/mc24-director-dist",
+            "version": "v0.1.0-alpha",
             "source": {
                 "type": "git",
-                "url": "https://github.com/medcenter24/mc-director-gui.git",
-                "reference": "ec035ae9784065d94db99a4672c97a456704ba9f"
+                "url": "https://github.com/medcenter24/mc24-director-dist.git",
+                "reference": "6b9394d3df84ebbc66d813f088d45480ce3fe01d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc-director-gui/zipball/ec035ae9784065d94db99a4672c97a456704ba9f",
-                "reference": "ec035ae9784065d94db99a4672c97a456704ba9f",
+                "url": "https://api.github.com/repos/medcenter24/mc24-director-dist/zipball/6b9394d3df84ebbc66d813f088d45480ce3fe01d",
+                "reference": "6b9394d3df84ebbc66d813f088d45480ce3fe01d",
                 "shasum": ""
             },
             "require": {
@@ -2257,27 +2257,35 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0-only"
+                "proprietary"
             ],
-            "description": "GUI for a director",
+            "authors": [
+                {
+                    "name": "MedCenter24",
+                    "email": "dev@medcenter24.com"
+                }
+            ],
+            "description": "GUI for the director",
             "keywords": [
-                "director",
+                "api",
+                "director-dist",
+                "dist",
                 "medcenter24"
             ],
-            "time": "2019-07-06T18:35:08+00:00"
+            "time": "2019-07-18T21:55:01+00:00"
         },
         {
-            "name": "medcenter24/mc-doctor-gui",
-            "version": "v1.1.0-alpha",
+            "name": "medcenter24/mc24-doctor-dist",
+            "version": "v0.1.0-alpha",
             "source": {
                 "type": "git",
-                "url": "https://github.com/medcenter24/mc-doctor-gui.git",
-                "reference": "a0e9b84f3ce76a8697d9360e9980cd9f32506b6e"
+                "url": "https://github.com/medcenter24/mc24-doctor-dist.git",
+                "reference": "b38f1b9e12fe58405e27e6cae48e5df9ec030a51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc-doctor-gui/zipball/a0e9b84f3ce76a8697d9360e9980cd9f32506b6e",
-                "reference": "a0e9b84f3ce76a8697d9360e9980cd9f32506b6e",
+                "url": "https://api.github.com/repos/medcenter24/mc24-doctor-dist/zipball/b38f1b9e12fe58405e27e6cae48e5df9ec030a51",
+                "reference": "b38f1b9e12fe58405e27e6cae48e5df9ec030a51",
                 "shasum": ""
             },
             "require": {
@@ -2289,14 +2297,22 @@
             },
             "notification-url": "https://packagist.org/downloads/",
             "license": [
-                "GPL-2.0-only"
+                "proprietary"
             ],
-            "description": "GUI for a doctor",
+            "authors": [
+                {
+                    "name": "MedCenter24",
+                    "email": "dev@medcenter24.com"
+                }
+            ],
+            "description": "GUI for the doctor",
             "keywords": [
-                "doctor",
+                "api",
+                "dist",
+                "doctor-dist",
                 "medcenter24"
             ],
-            "time": "2019-04-08T07:43:43+00:00"
+            "time": "2019-07-18T22:12:05+00:00"
         },
         {
             "name": "monolog/monolog",
@@ -2558,16 +2574,16 @@
         },
         {
             "name": "nesbot/carbon",
-            "version": "2.21.2",
+            "version": "2.21.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/briannesbitt/Carbon.git",
-                "reference": "a8bfb6631e3bc982427406d13ad817fc45d47b61"
+                "reference": "58bdbbfab17ccd2ec7347b99e997f18232def4dc"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/a8bfb6631e3bc982427406d13ad817fc45d47b61",
-                "reference": "a8bfb6631e3bc982427406d13ad817fc45d47b61",
+                "url": "https://api.github.com/repos/briannesbitt/Carbon/zipball/58bdbbfab17ccd2ec7347b99e997f18232def4dc",
+                "reference": "58bdbbfab17ccd2ec7347b99e997f18232def4dc",
                 "shasum": ""
             },
             "require": {
@@ -2621,7 +2637,7 @@
                 "datetime",
                 "time"
             ],
-            "time": "2019-07-17T07:49:05+00:00"
+            "time": "2019-07-18T18:47:28+00:00"
         },
         {
             "name": "nikic/php-parser",
