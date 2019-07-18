@@ -2,8 +2,8 @@
 Medical Center Deployment
 
 ## ssh connection
-new server is coming
+```ssh -i /Users/zagovorychev/aws/secret/mc24/Mc24Ubuntudemo.pem ubuntu@ec2-35-159-50-6.eu-central-1.compute.amazonaws.com```
 
 ## copy files to EC2
-```scp -i MedCenter24Preview.pem /Users/zagovorychev/www/sandbox/projects/mc24sandbox/composer.lock ec2-user@ec2-18-188-198-52.us-east-2.compute.amazonaws.com:/home/ec2-user/downloads/mc24git/composer.lock```
+```scp -i Mc24Ubuntudemo.pem /Users/zagovorychev/www/sandbox/projects/mc24sandbox/composer.lock ubuntu@ec2-35-159-50-6.eu-central-1.compute.amazonaws.com:/home/ec2-user/downloads/mc24git/composer.lock```
 
