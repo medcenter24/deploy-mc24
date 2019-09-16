@@ -13,7 +13,7 @@
     "prefer-stable": true,
     "require": {
         "medcenter24/mc-core": "2.4.3-alpha",
-        "medcenter24/mc24-director-dist": "0.1.0-alpha",
+        "medcenter24/mc24-director-dist": "0.1.1-alpha",
         "medcenter24/mc24-doctor-dist": "0.1.0-alpha"
     },
     "require-dev": {
