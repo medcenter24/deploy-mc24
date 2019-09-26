@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "cc9c53faaba86c17fa07ccbba6903a15",
+    "content-hash": "b874cb4b7cfa032e746e22a6169645ec",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -254,28 +254,28 @@
         },
         {
             "name": "cmgmyr/messenger",
-            "version": "2.18",
+            "version": "2.19",
             "source": {
                 "type": "git",
                 "url": "https://github.com/cmgmyr/laravel-messenger.git",
-                "reference": "7272f507cf94a8db36ae78f926847807a488a039"
+                "reference": "3bdffe231308eaa2dfcf00d91200c9417e02fe83"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/cmgmyr/laravel-messenger/zipball/7272f507cf94a8db36ae78f926847807a488a039",
-                "reference": "7272f507cf94a8db36ae78f926847807a488a039",
+                "url": "https://api.github.com/repos/cmgmyr/laravel-messenger/zipball/3bdffe231308eaa2dfcf00d91200c9417e02fe83",
+                "reference": "3bdffe231308eaa2dfcf00d91200c9417e02fe83",
                 "shasum": ""
             },
             "require": {
-                "illuminate/config": ">=5.5 <6.0",
-                "illuminate/database": ">=5.5 <6.0",
-                "illuminate/support": ">=5.5 <6.0",
+                "illuminate/config": "^5.5|^6.0",
+                "illuminate/database": "^5.5|^6.0",
+                "illuminate/support": "^5.5|^6.0",
                 "php": "^7.1.3"
             },
             "require-dev": {
                 "adamwathan/faktory": "0.3.*",
                 "friendsofphp/php-cs-fixer": "^2.5",
-                "orchestra/testbench": "~3.0",
+                "orchestra/testbench": "^3.0|^4.0",
                 "phpunit/phpunit": "^7.0"
             },
             "type": "library",
@@ -310,7 +310,7 @@
                 "messaging",
                 "user messaging"
             ],
-            "time": "2019-06-13T20:38:21+00:00"
+            "time": "2019-09-16T12:32:06+00:00"
         },
         {
             "name": "dingo/api",
@@ -2163,16 +2163,16 @@
         },
         {
             "name": "medcenter24/mc-core",
-            "version": "v2.4.3-alpha",
+            "version": "v2.5.0-alpha",
             "source": {
                 "type": "git",
                 "url": "https://github.com/medcenter24/mc-core.git",
-                "reference": "65fd83b8f1d1ecbaa16b79ce974a3ddcdc797447"
+                "reference": "7d65ac019c668755829bcf150f16020db2f0e0c1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc-core/zipball/65fd83b8f1d1ecbaa16b79ce974a3ddcdc797447",
-                "reference": "65fd83b8f1d1ecbaa16b79ce974a3ddcdc797447",
+                "url": "https://api.github.com/repos/medcenter24/mc-core/zipball/7d65ac019c668755829bcf150f16020db2f0e0c1",
+                "reference": "7d65ac019c668755829bcf150f16020db2f0e0c1",
                 "shasum": ""
             },
             "require": {
@@ -2236,20 +2236,20 @@
                 "medcenter24",
                 "medicine"
             ],
-            "time": "2019-09-06T14:10:05+00:00"
+            "time": "2019-09-26T14:25:25+00:00"
         },
         {
             "name": "medcenter24/mc24-director-dist",
-            "version": "v0.1.1-alpha",
+            "version": "v0.1.2-alpha",
             "source": {
                 "type": "git",
                 "url": "https://github.com/medcenter24/mc24-director-dist.git",
-                "reference": "b604147f3e320e4e48a4379d470a3abb041e72b9"
+                "reference": "dd1bcd52f748f7cc38a42e933bda4aa881eece50"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc24-director-dist/zipball/b604147f3e320e4e48a4379d470a3abb041e72b9",
-                "reference": "b604147f3e320e4e48a4379d470a3abb041e72b9",
+                "url": "https://api.github.com/repos/medcenter24/mc24-director-dist/zipball/dd1bcd52f748f7cc38a42e933bda4aa881eece50",
+                "reference": "dd1bcd52f748f7cc38a42e933bda4aa881eece50",
                 "shasum": ""
             },
             "require": {
@@ -2276,20 +2276,20 @@
                 "dist",
                 "medcenter24"
             ],
-            "time": "2019-09-16T10:00:44+00:00"
+            "time": "2019-09-26T14:50:15+00:00"
         },
         {
             "name": "medcenter24/mc24-doctor-dist",
-            "version": "v0.1.0-alpha",
+            "version": "v0.1.1-alpha",
             "source": {
                 "type": "git",
                 "url": "https://github.com/medcenter24/mc24-doctor-dist.git",
-                "reference": "b38f1b9e12fe58405e27e6cae48e5df9ec030a51"
+                "reference": "6f15553430a8d0f11f1d9ce8618e4b6d2c487deb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc24-doctor-dist/zipball/b38f1b9e12fe58405e27e6cae48e5df9ec030a51",
-                "reference": "b38f1b9e12fe58405e27e6cae48e5df9ec030a51",
+                "url": "https://api.github.com/repos/medcenter24/mc24-doctor-dist/zipball/6f15553430a8d0f11f1d9ce8618e4b6d2c487deb",
+                "reference": "6f15553430a8d0f11f1d9ce8618e4b6d2c487deb",
                 "shasum": ""
             },
             "require": {
@@ -2316,7 +2316,7 @@
                 "doctor-dist",
                 "medcenter24"
             ],
-            "time": "2019-07-18T22:12:05+00:00"
+            "time": "2019-09-26T15:02:45+00:00"
         },
         {
             "name": "monolog/monolog",
