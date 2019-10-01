@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "71b528d93762a5e056f814d21b0b3d23",
+    "content-hash": "ef147bbe2d280bff06416c4035f11f17",
     "packages": [
         {
             "name": "asm89/stack-cors",
@@ -2163,16 +2163,16 @@
         },
         {
             "name": "medcenter24/mc-core",
-            "version": "v2.5.1-alpha",
+            "version": "v2.5.2-alpha",
             "source": {
                 "type": "git",
                 "url": "https://github.com/medcenter24/mc-core.git",
-                "reference": "2d901e3b2315b0d6d81d1befd86beb9b601d9a5f"
+                "reference": "c74699ea8ee42b86967ac0c585b174e9028e21d1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/medcenter24/mc-core/zipball/2d901e3b2315b0d6d81d1befd86beb9b601d9a5f",
-                "reference": "2d901e3b2315b0d6d81d1befd86beb9b601d9a5f",
+                "url": "https://api.github.com/repos/medcenter24/mc-core/zipball/c74699ea8ee42b86967ac0c585b174e9028e21d1",
+                "reference": "c74699ea8ee42b86967ac0c585b174e9028e21d1",
                 "shasum": ""
             },
             "require": {
@@ -2236,7 +2236,7 @@
                 "medcenter24",
                 "medicine"
             ],
-            "time": "2019-09-27T08:54:32+00:00"
+            "time": "2019-10-01T15:26:19+00:00"
         },
         {
             "name": "medcenter24/mc24-director-dist",
