@@ -1,8 +1,9 @@
-guiDirector
-guiDoctor
-mcCore
-vendor
+/guiDirector
+/guiDoctor
+/mcCore
+/vendor
+/settings
+/config
+/data
 .idea
-config
-data
 .DS_STORE
